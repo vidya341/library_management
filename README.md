@@ -7,6 +7,7 @@ API Development <br/>
 MYSQL Database <br/>
 JPA Repository and Hibernate <br/>
 Postman and Swagger for interaction with backend server <br/>
+github
 
 ## Project Entity
 Student <br/>
