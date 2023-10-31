@@ -18,6 +18,7 @@ Authors <br/>
 
 ## API's
 Post - Add student, Library card, Transaction, Book,Author <br/>
+The put,get and delete api ranges from basic to advanced inclusing hibernate query, native query.
 Put- update some info of an entity <br/>
 Get- retreive data from database <br/>
 Delete - delete the info /entity from database
